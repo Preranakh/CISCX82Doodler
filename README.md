@@ -8,6 +8,7 @@ A brush that acts as a tool is required to help us draw on the canvas and we nee
 Now, at the end when the user is done with the drawing, he might want to clear the canvas and erase everything. So, the delete option is provided for this, which will allow the user to clear the drawings from the canvas.
 
 References Used
+
 https://www.geeksforgeeks.org/how-to-create-a-paint-application-in-android/
 
 https://www.youtube.com/watch?v=JsNM6k32aKs
