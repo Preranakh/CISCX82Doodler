@@ -9,8 +9,13 @@ Now, at the end when the user is done with the drawing, he might want to clear t
 
 References Used
 https://www.geeksforgeeks.org/how-to-create-a-paint-application-in-android/
+
 https://www.youtube.com/watch?v=JsNM6k32aKs
+
 https://www.youtube.com/watch?v=83-j3K4cta8&list=PLW98DQDDUrRhUf167J9K8KmwoK6iUA4Gi
+
 https://www.youtube.com/watch?v=xGrOHLk60q8
+
 https://developer.android.com/develop/ui/views/layout/custom-views/custom-drawing
+
 https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-11-canvas/11-1a-p-create-a-simple-canvas/11-1a-p-create-a-simple-canvas.html
